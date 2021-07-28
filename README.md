@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Argonaemo
-- 👀 I’m interested in Back-End development
+- 👀 I’m interested in Web development, AI, and Data Science
 - 🌱 I’m currently learning nodejs
 - 📫 How to reach me @muhammademir48@gmail.com
 
