@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Argonaemo
 - 👀 I’m interested in Web development, AI, and Data Science
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning 
 - 📫 How to reach me @muhammademir48@gmail.com
 
 <!---
