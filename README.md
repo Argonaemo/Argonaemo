@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Argonaemo
 - 👀 I’m interested in Web development, AI, and Data Science
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning UI/UX for better Web Design
 - 📫 How to reach me @muhammademir48@gmail.com
 
 <!---
