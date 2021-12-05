@@ -10,6 +10,29 @@ Argonaemo/Argonaemo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+## About Me
+```javascript
+const aboutMe = {
+  pronouns: 'he' | 'him',
+  language: [Javascript, HTML, CSS, Python, Node],
+  frameworkAndLibrary: [React, Next, FramerMotion, MaterialUI],
+  design: [figma],
+  other: [firebase],
+  learningPlan: {
+    "styled-component": "ongoing"
+    "NextJs": "ongoing"
+    "web3" : "soon"
+  }
+}
+
+while(!tired){
+  learn()
+  learn()
+  learn()
+}
+
+```
+
 ## My Stats
 <p align="left">
 <a href="https://github.com/Argonaemo">
