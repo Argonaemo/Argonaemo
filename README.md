@@ -1,4 +1,4 @@
-## Hello World!, I'm Emir
+## Hello World!
 
 - 👋 Hi, I’m @Argonaemo
 - 👀 I’m interested in Web development and Machine Learning.
