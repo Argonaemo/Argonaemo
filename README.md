@@ -15,12 +15,13 @@ You can click the Preview link to take a look at your changes.
 const aboutMe = {
   pronouns: 'he' | 'him',
   language: [Javascript, HTML, CSS, Python, Node],
-  frameworkAndLibrary: [React, Next, FramerMotion, MaterialUI],
+  frameworkAndLibrary: [React, Next, FramerMotion],
   design: [figma],
   other: [firebase],
   learningPlan: {
-    "styled-component": "ongoing"
-    "NextJs": "ongoing"
+    "styled-component": "ongoing",
+    "NextJs": "ongoing",
+    "tailwind": "ongoing",
     "web3" : "soon"
   }
 }
