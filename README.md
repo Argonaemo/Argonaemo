@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Argonaemo
 - 👀 I’m interested in Web development and Machine Learning.
-- 🌱 I’m currently learning UI/UX, Web Animation, and Web3.
+- 🌱 I’m currently learning UI/UX, and Web3.
 - 📫 How to reach me @muhammademir48@gmail.com
 - 🔥 2022 Goals: Learn new things and use it in my project to solve real world problem
 
