@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const aboutMe = {
   pronouns: 'he' | 'him',
-  language: [Javascript, HTML, CSS, Python, Node],
+  language: [Javascript, HTML, CSS, Python, Node, Solidity],
   frameworkAndLibrary: [React, Next, FramerMotion, StyledComponents],
   design: [figma],
   other: [firebase],
