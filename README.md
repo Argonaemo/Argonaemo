@@ -37,8 +37,8 @@ while(!tired){
 
 ## My Stats
 <p align="left">
-<a href="https://github.com/Argonaemo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Argonaemo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Argonaemo&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/emrsyah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emrsyah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emrsyah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
