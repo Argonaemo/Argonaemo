@@ -23,7 +23,7 @@ const aboutMe = {
     "styled-component": "ongoing",
     "NextJs": "ongoing",
     "web3" : "ongoing",
-    "tailwind": "soon"
+    "tailwind": "ongoing"
   }
 }
 
