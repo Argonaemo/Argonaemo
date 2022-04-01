@@ -16,14 +16,13 @@ You can click the Preview link to take a look at your changes.
 const aboutMe = {
   pronouns: 'he' | 'him',
   language: [Javascript, HTML, CSS, Python, Node, Solidity],
-  frameworkAndLibrary: [React, Next, FramerMotion, StyledComponents],
-  design: [figma],
-  other: [firebase],
+  frameworkAndLibrary: [React, Next, Tailwind, StyledComponents],
+  design: [Figma],
+  other: [Firebase, Hardhat],
   learningPlan: {
-    "styled-component": "ongoing",
     "NextJs": "ongoing",
-    "web3" : "ongoing",
-    "tailwind": "ongoing"
+    "Web3": "ongoing",
+    "NLP": "soon",
   }
 }
 
