@@ -19,17 +19,7 @@ const aboutMe = {
   frameworkAndLibrary: [React, Next, Tailwind, StyledComponents],
   design: [Figma],
   other: [Firebase, Hardhat],
-  learningPlan: {
-    "NextJs": "ongoing",
-    "Web3": "ongoing",
-    "NLP": "soon",
-  }
-}
-
-while(!tired){
-  learn()
-  learn()
-  learn()
+  currentlyLearning: [ML, SmartContract]
 }
 
 ```
