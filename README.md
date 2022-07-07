@@ -19,7 +19,7 @@ const aboutMe = {
   frameworkAndLibrary: [React, Next, Tailwind, StyledComponents],
   design: [Figma],
   other: [Firebase, Hardhat],
-  currentlyLearning: [ML, SmartContract]
+  currentlyLearning: [ML, SmartContract, Storybook, Testing (Cypress, Vitest)]
 }
 
 ```
