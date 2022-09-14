@@ -31,3 +31,9 @@ const aboutMe = {
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emrsyah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Few Things I've Built ###
+- [Merchain 🛒](https://merchains.vercel.app/), an online store builder with link-in-bio styles.
+- [Twevvy 🕊️](https://twevvy.vercel.app/), a platform to make embeddable widgets for sharing your twitter community in any websites.
+- [Randomiq 🎲](https://randomiq.vercel.app/), a website to get and share random challenge just like using social media.
+- [Sniphare 🧁](https://sniphare.vercel.app/), a platform where developer find and share their snippets
