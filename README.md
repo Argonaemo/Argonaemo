@@ -33,6 +33,7 @@ const aboutMe = {
 </p>
 
 ### Few Things I've Built ###
+- [Schology 🏫](https://schology.vercel.app/), easy to use yet powerful online learning management system.
 - [Merchain 🛒](https://merchains.vercel.app/), an online store builder with link-in-bio styles.
 - [Twevvy 🕊️](https://twevvy.vercel.app/), a platform to make embeddable widgets for sharing your twitter community in any websites.
 - [Randomiq 🎲](https://randomiq.vercel.app/), a website to get and share random challenge just like using social media.
