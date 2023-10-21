@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning UI/UX, and Web3.
 - 📫 How to reach me @muhammademir48@gmail.com
 - 🔥 2022 Goals: Learn new things and use it in my project to solve real world problem
-sindry-new-icon.png
 <!---
 Argonaemo/Argonaemo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
